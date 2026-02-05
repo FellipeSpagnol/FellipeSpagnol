@@ -1,7 +1,5 @@
 <div align="center">
-  <br>
   <h1>Fellipe Andrade Spagnol</h1>
-  <br>
 </div>
 
 ## 👋 About Me
@@ -36,7 +34,7 @@ I'm an Electrical Engineering Student conducting research in control and robotic
   <a href="https://www.linkedin.com/in/fellipespagnol" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+  <a href="mailto:fellipespagnol@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <br><br>
