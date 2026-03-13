@@ -7,7 +7,7 @@
 I'm an Electrical Engineering Student conducting research in control and robotics.
 * 🔭 **Currently working on:** Reinforcement Learning Algorithms and Null-Space-Based Control
 * 🎓 **Education:** Electrical Engineering at Federal University of Espírito Santo (UFES)
-
+* 
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -17,9 +17,13 @@ I'm an Electrical Engineering Student conducting research in control and robotic
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40" height="40" alt="ROS" style="background-color:white; border-radius:5px; padding:2px;"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </div>
 
 <br>
