@@ -7,7 +7,7 @@
 I'm an Electrical Engineering Student conducting research in control and robotics.
 * 🔭 **Currently working on:** Reinforcement Learning Algorithms and Null-Space-Based Control
 * 🎓 **Education:** Electrical Engineering at Federal University of Espírito Santo (UFES)
-* 
+  
 ## 🛠️ Tech Stack
 
 <div align="center">
